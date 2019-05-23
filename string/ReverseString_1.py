@@ -6,6 +6,7 @@ class Solution:
         if (len(s) == 0):
             return
 
+
         i = 0
         while i < len(s):
             temp = s[i]
